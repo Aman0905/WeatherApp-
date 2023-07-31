@@ -22,4 +22,10 @@ Start a new terminal (do not close the server terminal)<br>
 Run { cd client }<br>
 Now you are in the client directory.<br>
 Run { npm start }<br>
-This will take a few moments, but dont click away, the react app is starting to initialize and will open a browser window which is the react app. The url will be { http://localhost:3000 }
+This will take a few moments, but dont click away, the react app is starting to initialize and will open a 
+browser window which is the react app. The url will be { http://localhost:3000 }<br>
+
+Here is the video of it.
+https://github.com/Aman0905/WeatherApp-/assets/63815270/71e5d533-6b9f-4c04-9729-e8ebfb37e392
+
+
